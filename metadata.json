@@ -1,0 +1,5 @@
+{
+  "name": "艾小夏测评集优化方案",
+  "description": "A comprehensive log management system that allows users to filter chat logs and add specific entries to a dedicated evaluation set for model and human scoring.",
+  "requestFramePermissions": []
+}
